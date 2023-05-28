@@ -1,0 +1,8 @@
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/b15a5518-b3e4-46a2-9139-318ad93ee750)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/b273cc05-631a-47c6-85a2-735223219669)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/8dc148a8-9ea0-47e7-81f0-9cbe39032626)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/cd79dddb-2c1b-4368-af5a-5c27feb226eb)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/97e6f2fe-c534-4308-8a71-c81884d1b049)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/52fab863-8aaa-4033-8255-4bec9e17f1ae)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/b9ba574a-9920-4f32-aa4b-c1499072b8cf)
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/d4669231-7ef7-4c34-b87f-4cbc583ee1f2)
