@@ -6,3 +6,5 @@
 ![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/f778f0c1-ff7f-4fe0-9f1c-0d0269b2d67f)
 -- 14
 ![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/8b9f5909-c297-4208-98e7-2379d984383b)
+-- 15
+![image](https://github.com/NikhilNaik21/MYSQL-HackerRank/assets/111115551/d777850a-c757-4e84-8b77-45561e941677)
