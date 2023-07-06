@@ -1,7 +1,8 @@
 
 -- SelectAll
-                                                                        select * from city;
-
+```
+select * from city;
+```
 -- Revising the Select Query I
                                                                   select * from city where countrycode='usa' and Population>100000 ;
 
