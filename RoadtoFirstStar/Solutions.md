@@ -1,9 +1,9 @@
 
 -- SelectAll
-select * from city;
+                                                                        select * from city;
 
 -- Revising the Select Query I
-select * from city where countrycode='usa' and Population>100000 ;
+                                                                  select * from city where countrycode='usa' and Population>100000 ;
 
 -- Revising the Select Query II
 select Name from city where population>120000 and countrycode='usa';
