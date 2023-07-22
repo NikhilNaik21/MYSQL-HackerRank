@@ -1,11 +1,15 @@
 create database Emp_Management;
+
 show databases;
+
 use Emp_Management;
+
 create table DEPT ( DEPTNO int primary key Not null Auto_increment,
 DEPT_NAME varchar(20),
 LOCATION varchar(20)
 );
- desc DEPT;
+
+desc DEPT;
 
 insert into DEPT values (101,'ACCOUNTING','PUNE'),
 (102,'RESEARCH','CHENNAI'),
