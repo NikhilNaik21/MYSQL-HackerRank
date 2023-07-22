@@ -1,7 +1,5 @@
 --Weather observation station 11
- ``` 
-select distinct city from station where city not regexp '^[aeiou]' or city not regexp '[aeiou]$'; 
-```
+ select distinct city from station where city not regexp '^[aeiou]' or city not regexp '[aeiou]$'; 
  
 --Weather observation station 12
 select distinct city from station where  city not regexp '^[aeiou]' and city not regexp '[aeiou]$';
