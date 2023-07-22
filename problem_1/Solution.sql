@@ -18,6 +18,7 @@ insert into DEPT values (101,'ACCOUNTING','PUNE'),
 (105,'PROGRAMMER','KOLKATA');
 
 select * from DEPT;
+
 create table EMP( EMPNO int primary key Not null,
 ENAME varchar(20),
 JOB varchar(10),
@@ -27,8 +28,11 @@ AADHAR int(10) unique ,
 DEPTNO int(10) ,
 foreign key(DEPTNO) references DEPT(DEPTNO)
 );
+
 select * from EMP;
+
 desc EMP;
+
 alter table EMP modify column EMPNO varchar(20);
 insert into EMP(EMPNO, ENAME,JOB,HIREDATE,SALARY,AADHAR,DEPTNO) values('E01','ARUN','CLERK','2001-12-17',5000,4562,101);
 insert into EMP(EMPNO, ENAME,JOB,HIREDATE,SALARY,AADHAR,DEPTNO) values('E02','RAJ','SALESMAN','2000-04-22',6000,4552,103),
